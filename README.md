@@ -1,11 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 ---
-![증사확대](https://github.com/user-attachments/assets/2900c497-22a8-4b90-b148-533f40aec89f)
-# 👩‍💻 김영주 (Youngju Kim)  
-**단국대학교 정보통계학과 | Data Analysis & Machine Learning**
-*  📧 E-mail: yoyoung5611@dankook.ac.kr
-* 📱 Phone: 010-3315-6259
-* 🌐 Github: https://github.com/0zooooo
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <div>
+    <h1>👩‍💻 김영주 (Youngju Kim)</h1>
+    <p><strong>단국대학교 정보통계학과 | Data Analysis & Machine Learning</strong></p>
+    
+    <ul>
+      <li>📧 E-mail: yoyoung5611@dankook.ac.kr</li>
+      <li>📱 Phone: 010-3315-6259</li>
+      <li>🌐 GitHub: https://github.com/0zooooo</li>
+    </ul>
+  </div>
+  <img src="./images/profile.jpg" width="200px" style="border-radius: 10px;">
+</div>
+
 
 ---
 
@@ -58,7 +67,10 @@
 
 ### 🔹 기타 Projects
 
-<img width="1510" height="1240" alt="스크린샷 2025-11-01 205016" src="https://github.com/user-attachments/assets/cbc79ae8-2aed-462d-8780-03cda777c01d" />
+<p align="center">
+  <img src="./images/web1.jpg" width="200">
+  <img src="./images/web2.jpg" width="200">
+</p>
 
 - **City Tour 웹페이지 제작**
   
@@ -69,7 +81,7 @@
 
   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-<img width="512" height="592" alt="스크린샷 2023-12-17 152401" src="https://github.com/user-attachments/assets/d83eb1b6-84e0-4109-baf8-5b384f439799" />
+<img src="./images/game.jpg" width="200">
 
 - **간단 눈·코·입 인물 맞추기 게임 제작**
   
