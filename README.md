@@ -1,15 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 ---
-<p align="center">
-  <img src="./images/profile.jpg" width="180px" alt="Profile" />
-</p>
+![증사확대](https://github.com/user-attachments/assets/2900c497-22a8-4b90-b148-533f40aec89f)
 # 👩‍💻 김영주 (Youngju Kim)  
 **단국대학교 정보통계학과 | Data Analysis & Machine Learning**
-* 📧 E-mail: yoyoung5611@dankook.ac.kr
+*  📧 E-mail: yoyoung5611@dankook.ac.kr
 * 📱 Phone: 010-3315-6259
 * 🌐 Github: https://github.com/0zooooo
 
 ---
+
 
 ## 🌟 자기소개
 ✏️정보통계학과에서 데이터 분석가 & 사이언스를 목표로 공부 중 입니다.
@@ -42,28 +41,33 @@
 - **갑상선 암 예측 분류**  
   ✅ 환자 데이터셋 기반 이진 분류 모델 구축 & 예측 성능 최적화   
   *#KNN #Naive Bayes #Decision Tree #데이터마이닝 #이진분류 #ML*
+
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB)
 
-- **운동 여부가 심혈관에 미치는 영향 분석 & 모델링링**  
+- **운동 여부가 심혈관에 미치는 영향 분석 & 모델링**  
   ✅ 운동 여부와 심혈관 질환 발생 위험 간의 상관성 분석 & 모델링  
   *#EDA #로지스틱회귀 #헬스통계 #통계분석*  
+
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB)
 
 ---
 
+
 ### 🔹 기타 Projects
 
-(이미지추가)
+<img width="1510" height="1240" alt="스크린샷 2025-11-01 205016" src="https://github.com/user-attachments/assets/cbc79ae8-2aed-462d-8780-03cda777c01d" />
 - **City Tour 웹페이지 제작**  
   ✅ HTML + CSS + JS 로 구현한 반응형 도시 소개 웹페이지  
   🔗 Repo: https://github.com/0zooooo/T0_Projects 
   *#HTML #CSS #JavaScript #WebDesign #Frontend*
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-(이미지추가)
+<img width="512" height="592" alt="스크린샷 2023-12-17 152401" src="https://github.com/user-attachments/assets/d83eb1b6-84e0-4109-baf8-5b384f439799" />
 - **간단 눈·코·입 인물 맞추기 게임 제작**  
   ✅ 유명 인물의 눈·코·입만 보고 인물 맞추는 tkinter 미니게임  
   *#Python #PyCharm #tkinter*
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white)
 
 ---
