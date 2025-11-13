@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=footer&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=speech&reversal=true&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 ---
 
 <img src="./images/profile.jpg" width="200">
@@ -63,7 +63,7 @@
 
 <p align="left">
   <img src="./images/web1.png" width="200">
-  <img src="./images/web2.png width="200">
+  <img src="./images/web2.png" width="200">
 </p>
 
 - **City Tour 웹페이지 제작**
