@@ -11,8 +11,10 @@
 
 
 ## 🌟 자기소개
+
 ✏️정보통계학과에서 데이터 분석가 & 사이언스를 목표로 공부 중 입니다.
 🌱Python과 R을 활용해 데이터 분석·시각화·머신러닝 프로젝트를 진행하여 데이터 분석 역량을 키우고 있습니다.
+
 ---
 
 ## 💻 Tech Stack
@@ -56,7 +58,8 @@
 ### 🔹 기타 Projects
 
 <img width="1510" height="1240" alt="스크린샷 2025-11-01 205016" src="https://github.com/user-attachments/assets/cbc79ae8-2aed-462d-8780-03cda777c01d" />
-- **City Tour 웹페이지 제작**  
+
+- **City Tour 웹페이지 제작**
   ✅ HTML + CSS + JS 로 구현한 반응형 도시 소개 웹페이지  
   🔗 Repo: https://github.com/0zooooo/T0_Projects 
   *#HTML #CSS #JavaScript #WebDesign #Frontend*
@@ -64,6 +67,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 <img width="512" height="592" alt="스크린샷 2023-12-17 152401" src="https://github.com/user-attachments/assets/d83eb1b6-84e0-4109-baf8-5b384f439799" />
+
 - **간단 눈·코·입 인물 맞추기 게임 제작**  
   ✅ 유명 인물의 눈·코·입만 보고 인물 맞추는 tkinter 미니게임  
   *#Python #PyCharm #tkinter*
