@@ -13,13 +13,14 @@
 ## 🌟 자기소개
 
 ✏️정보통계학과에서 데이터 분석가 & 사이언스를 목표로 공부 중 입니다.
+
 🌱Python과 R을 활용해 데이터 분석·시각화·머신러닝 프로젝트를 진행하여 데이터 분석 역량을 키우고 있습니다.
 
 ---
 
 ## 💻 Tech Stack
 ### 🔹 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -28,7 +29,7 @@
 
 
 ### 🔹 Tools  
-![RStudio](https://img.shields.io/badge/RStudio-75AADB)
+- ![RStudio](https://img.shields.io/badge/RStudio-75AADB)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white)
@@ -44,13 +45,13 @@
   ✅ 환자 데이터셋 기반 이진 분류 모델 구축 & 예측 성능 최적화   
   *#KNN #Naive Bayes #Decision Tree #데이터마이닝 #이진분류 #ML*
 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB)
+  - ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB)
 
 - **운동 여부가 심혈관에 미치는 영향 분석 & 모델링**  
   ✅ 운동 여부와 심혈관 질환 발생 위험 간의 상관성 분석 & 모델링  
   *#EDA #로지스틱회귀 #헬스통계 #통계분석*  
 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB)
+  - ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB)
 
 ---
 
@@ -65,7 +66,7 @@
   🔗 Repo: https://github.com/0zooooo/T0_Projects 
   *#HTML #CSS #JavaScript #WebDesign #Frontend*
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 <img width="512" height="592" alt="스크린샷 2023-12-17 152401" src="https://github.com/user-attachments/assets/d83eb1b6-84e0-4109-baf8-5b384f439799" />
 
@@ -74,7 +75,7 @@
   ✅ 유명 인물의 눈·코·입만 보고 인물 맞추는 tkinter 미니게임  
   *#Python #PyCharm #tkinter*
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white)
 
 ---
 
