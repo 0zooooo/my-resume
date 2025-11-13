@@ -60,6 +60,7 @@
 <img width="1510" height="1240" alt="스크린샷 2025-11-01 205016" src="https://github.com/user-attachments/assets/cbc79ae8-2aed-462d-8780-03cda777c01d" />
 
 - **City Tour 웹페이지 제작**
+  
   ✅ HTML + CSS + JS 로 구현한 반응형 도시 소개 웹페이지  
   🔗 Repo: https://github.com/0zooooo/T0_Projects 
   *#HTML #CSS #JavaScript #WebDesign #Frontend*
@@ -68,7 +69,8 @@
 
 <img width="512" height="592" alt="스크린샷 2023-12-17 152401" src="https://github.com/user-attachments/assets/d83eb1b6-84e0-4109-baf8-5b384f439799" />
 
-- **간단 눈·코·입 인물 맞추기 게임 제작**  
+- **간단 눈·코·입 인물 맞추기 게임 제작**
+  
   ✅ 유명 인물의 눈·코·입만 보고 인물 맞추는 tkinter 미니게임  
   *#Python #PyCharm #tkinter*
 
